@@ -44,14 +44,17 @@ Create a DataFrame that lists the **average reading score** at each school by gr
 - 9th, 10th, 11th, 12th
 ### Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
+
 Use bins to create reasonable cutoff values for grouping school spending.
+
 Calculate mean scores per spending range.
-Create a DataFrame called spending_summary with the following metrics in the table:
-	Average math score
-	Average reading score
-	Passing math rate (the percentage of students who passed math)
-	Passing reading rate (the percentage of students who passed reading)
-	Overall passing rate (the percentage of students who passed math AND reading)
+
+Create a DataFrame with the following metrics in the table:
+- Average math score
+- Average reading score
+- Passing math rate (the percentage of students who passed math)
+- Passing reading rate (the percentage of students who passed reading)
+- Overall passing rate (the percentage of students who passed math AND reading)
 
 ### Scores by School Size
 Use bins to create a DataFrame called size_summary comparing school performance based and school size:
