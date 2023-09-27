@@ -5,6 +5,10 @@ Using Pandas and Jupyter Notebook, we create a report that includes the followin
 
 written description of observable trends based on the data.
 
+Note:
+
+File saved as PyCitySchools_final.ipynb within PyCitySchools folder
+
 ### District Summary
 
 Calculate then create a high-level snapshot of the district's key metrics in a DataFrame with the following:
